@@ -1,4 +1,4 @@
-# Face_Emotion_Recognition_CNN
+# Face_Emotion_Recognition
 
 Below are listed scenarios where facial emotion detection can be used:
 * Face emotion recognition can be used to monitor employee emotions and engagement levels. This can help assess employee satisfaciton, identify areas for improvement, and provide a better work environment.
